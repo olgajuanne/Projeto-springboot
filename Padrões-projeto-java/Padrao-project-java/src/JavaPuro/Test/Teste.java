@@ -50,7 +50,7 @@ public class Teste {
     //Facade
 
     Facade facade = new Facade();
-    facade.migrarCliente("Vanilton", "1401788");
+    facade.migrarCliente(" Vanilton", " 1401788");
   }
 
 }

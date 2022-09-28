@@ -1,13 +1,15 @@
 ## Getting Started
 
-Desafio de Projeto Modulo Spring-Framework - `Bootcamp` -TQI Fullstack Developer
+Desafio de Projeto Modulo Spring-Framework - `Bootcamp` - DIO
 
 ## Explorando Padrões de Projetos na Prática com Java
 
 Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java". Especificamente, este projeto explorou alguns padrões usando Java puro:
-- Singleton
-- Strategy
-- Facade
+
+- Singleton: Disponibilizando uma instância para o usuário. 
+- Strategy/Repository: Aplicando comandos para movimentação de um robo.
+- Facade: Criando a API em um sistema com dados do cliente.  
+
 
 <!-- ## Folder Structure -->
 

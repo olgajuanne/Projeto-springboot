@@ -16,6 +16,6 @@ public class CepApi {
   }
 
   public String recuperarEstado(String cep) {
-    return "SP";
+    return "- SP";
   }
 }
